@@ -1,0 +1,11 @@
+.merc-generator_container {
+    margin: 10px;
+    padding: 10px;
+    background-color: #222;
+    border: 1px black;
+    color: white;
+}
+
+.merc-generator_form_label {
+    margin: 10px;
+}

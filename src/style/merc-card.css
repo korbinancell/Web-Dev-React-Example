@@ -1,0 +1,30 @@
+.merc-card_container {
+    background-color: #CCCCCC;
+    width: 700px;
+    height: 200px;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.merc-card_row-1 {
+    margin-bottom: 20px;
+}
+
+.merc-card_row-1_item {
+    margin: 10px;
+}
+
+.merc-card_row-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.merc-card_row-2_item {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.merc-card_row-2_item-line {
+    margin: 10px;
+}
