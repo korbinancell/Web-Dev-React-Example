@@ -25,3 +25,5 @@ After that is done `yarn start` should start the client and open it in your web 
 * [MDN Docs (best place to start)](https://developer.mozilla.org/en-US/)
 * [Free ES6 Book](http://exploringjs.com/es6/)
 * [React Docs](https://reactjs.org/)
+
+Thanks to mattconsto for his [fantasy name generators](https://github.com/mattconsto/fantasy-names)
